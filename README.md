@@ -1,3 +1,4 @@
 # Myplane
-飞机大战
-good game
+This is the first project in my life 
+It's funny,but there are still many imperfections
+I will do better in the future
